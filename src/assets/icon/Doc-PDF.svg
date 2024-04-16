@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="49px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g id="User-Usage-Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Usage-Dashboard---No-Data" transform="translate(-1268, -141)">
+            <g id="Group-3" transform="translate(1268, 141)">
+                <g id="Icon/Custom-Asset" transform="translate(5.6049, 2.9062)" stroke="#3B3E3F" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.625">
+                    <g id="notes-paper-text" transform="translate(10.1507, 13) rotate(-180) translate(-10.1507, -13)translate(0, 0)">
+                        <path d="M11.6205041,26 L1.35342466,26 C0.605948859,26 0,25.3940511 0,24.6465753 L0,1.35342466 C0,0.605948859 0.605948859,0 1.35342466,0 L18.9479452,0 C19.695421,0 20.3013699,0.605948859 20.3013699,1.35342466 L20.3013699,17.3191342 C20.3013699,17.6778344 20.1588256,18.0218338 19.9052676,18.2755543 L12.5769242,25.6038977 C12.3232036,25.8574557 11.9792042,26 11.6205041,26 Z" id="Shape"></path>
+                        <path d="M12.1808219,25.8781918 L12.1808219,19.2328767 C12.1808219,18.4854009 12.7867708,17.8794521 13.5342466,17.8794521 L20.1795616,17.8794521" id="Shape"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle" fill="#3B3E3F" x="4" y="15" width="24" height="11"></rect>
+                <text id="PDF" font-family="OpenSans-Regular, Open Sans" font-size="10" font-weight="normal" letter-spacing="0.221428571" fill="#FFFFFF">
+                    <tspan x="6.9320173" y="24">PDF</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
