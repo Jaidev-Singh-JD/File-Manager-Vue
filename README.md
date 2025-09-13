@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Notes
+- This is just a **playground project** built for learning and experimentation.  
+- It is **not production-ready**.  
